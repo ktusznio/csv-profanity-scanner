@@ -1,0 +1,14 @@
+{
+  "name": "csv-profanity-scanner",
+  "version": "1.0.0",
+  "description": "Scans a CSV file for profane words.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kamil Tusznio <kamil@pax.com>",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.0"
+  }
+}
